@@ -1,5 +1,5 @@
 # 💫 About Me:
-FULL-STACK ENGINEER | AUTOMATION | AI/ML | SOFTWARE ENGINEER<br> 
+Computer Engineering Student | Full-Stack Web Developer | Web APIs | MySQL | ReactJS | AI Automation (n8n) | AI/ML<br> 
 
 
 ## 🌐 Socials:
